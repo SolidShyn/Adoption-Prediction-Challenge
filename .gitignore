@@ -1,0 +1,39 @@
+# Datasets & Large Data
+PetFinder-Project-Dataset/
+*.zip
+*.tar.gz
+*.csv.gz
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python Bytecode and Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution & Build
+build/
+dist/
+*.egg-info/
+
+# Environments & Secrets
+.env
+.env.*
+
+# IDE / Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Specific
+.DS_Store
+Thumbs.db
